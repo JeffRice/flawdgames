@@ -884,7 +884,7 @@ div.error {
  height:128px
 }
 #armory-character>#equipped .slot.weapon2 {
- background-image:url(../images/invslot-weapon-1.png);
+ background-image:url(../images/invslot-weapon-2.png);
  position:absolute;
  top:42px;
  right:20px;
@@ -901,7 +901,7 @@ div.error {
  display:none
 }
 #armory-character>#equipped .slot.sweapon2 {
- background-image:url(../images/invslot-weapon-1.png);
+ background-image:url(../images/invslot-weapon-2.png);
  position:absolute;
  top:42px;
  right:20px;
