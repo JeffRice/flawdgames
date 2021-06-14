@@ -404,7 +404,7 @@ ul {
 #download input[type=text],
 #content #download input[type=password] {
  border:1px solid #1d1d1c;
- border-image:url(../img/input-border.png) 3 3 3 3 repeat;
+ border-image:url(../images/input-border.png) 3 3 3 3 repeat;
  border-width:3px;
  background-color:#222;
  background-color:rgba(42,42,42,.9)!important;
@@ -589,7 +589,7 @@ th {
 #tools input[type=text],
 #tools select {
  border:1px solid #1d1d1c;
- border-image:url(../img/input-border.png) 3 3 3 3 repeat;
+ border-image:url(../images/input-border.png) 3 3 3 3 repeat;
  border-width:2px;
  background-color:rgba(42,42,42,.9);
  color:#9a9377;
@@ -723,7 +723,7 @@ div.error {
 }
 #armory-character input[type=text] {
  border:1px solid #1d1d1c;
- border-image:url(../img/input-border.png) 3 3 3 3 repeat;
+ border-image:url(../images/input-border.png) 3 3 3 3 repeat;
  border-width:2px;
  background-color:rgba(42,42,42,.9);
  color:#4c4943;
