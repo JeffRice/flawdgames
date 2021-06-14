@@ -910,7 +910,7 @@ div.error {
  display:none
 }
 #armory-character>#equipped .slot.helmet {
- background-image:url(../img/invslot-helmet.png);
+ background-image:url(../images/invslot-helmet.png);
  position:absolute;
  top:10px;
  right:132px;
@@ -918,7 +918,7 @@ div.error {
  height:58px
 }
 #armory-character>#equipped .slot.body {
- background-image:url(../img/invslot-body.png);
+ background-image:url(../images/invslot-body.png);
  position:absolute;
  top:80px;
  right:132px;
@@ -926,7 +926,7 @@ div.error {
  height:88px
 }
 #armory-character>#equipped .slot.gloves {
- background-image:url(../img/invslot-gloves.png);
+ background-image:url(../images/invslot-gloves.png);
  position:absolute;
  top:182px;
  right:243px;
@@ -934,7 +934,7 @@ div.error {
  height:59px
 }
 #armory-character>#equipped .slot.boots {
- background-image:url(../img/invslot-boots.png);
+ background-image:url(../images/invslot-boots.png);
  position:absolute;
  top:182px;
  right:20px;
@@ -942,7 +942,7 @@ div.error {
  height:59px
 }
 #armory-character>#equipped .slot.belt {
- background-image:url(../img/invslot-belt.png);
+ background-image:url(../images/invslot-belt.png);
  position:absolute;
  top:182px;
  right:132px;
@@ -950,7 +950,7 @@ div.error {
  height:29px
 }
 #armory-character>#equipped .slot.amulet {
- background-image:url(../img/invslot-amulet.png);
+ background-image:url(../images/invslot-amulet.png);
  position:absolute;
  top:39px;
  right:92px;
@@ -958,7 +958,7 @@ div.error {
  height:29px
 }
 #armory-character>#equipped .slot.ring1 {
- background-image:url(../img/invslot-ring.png);
+ background-image:url(../images/invslot-ring.png);
  position:absolute;
  top:182px;
  right:203px;
@@ -966,7 +966,7 @@ div.error {
  height:29px
 }
 #armory-character>#equipped .slot.ring2 {
- background-image:url(../img/invslot-ring.png);
+ background-image:url(../images/invslot-ring.png);
  position:absolute;
  top:182px;
  right:92px;
