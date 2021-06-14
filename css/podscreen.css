@@ -1,30 +1,30 @@
 @font-face {
  font-family:avqest;
- src:url(fonts/AvQest.ttf) format("truetype");
+ src:url(../fonts/AvQest.ttf) format("truetype");
  font-weight:400;
  font-style:normal
 }
 @font-face {
  font-family:exocet;
- src:url(fonts/films.EXL_____.ttf) format("truetype");
+ src:url(../fonts/films.EXL_____.ttf) format("truetype");
  font-weight:400;
  font-style:normal
 }
 @font-face {
  font-family:exocet;
- src:url(fonts/films.EXH_____.ttf) format("truetype");
+ src:url(../fonts/films.EXH_____.ttf) format("truetype");
  font-weight:700;
  font-style:normal
 }
 @font-face {
  font-family:formal436 bt;
- src:url(fonts/formal-436.ttf) format("truetype");
+ src:url(../fonts/formal-436.ttf) format("truetype");
  font-weight:400;
  font-style:normal
 }
 @font-face {
  font-family:overlock;
- src:url(fonts/overlock.otf) format("opentype");
+ src:url(../fonts/overlock.otf) format("opentype");
  font-weight:400;
  font-style:normal
 }
