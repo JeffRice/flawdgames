@@ -1276,7 +1276,7 @@ div.error {
  width:100%
 }
 #armory-character>#gearbonus>.bonus-list>li {
- display:block;
+ display:flex;
  text-align:left
 }
 #armory-character>#gearbonus>.bonus-list>li>span {
