@@ -884,7 +884,7 @@ div.error {
  height:128px
 }
 #armory-character>#equipped .slot.weapon2 {
- background-image:url(../images/invslot-weapon-2.png);
+ background-image:url(../images/invslot-weapon-1.png);
  position:absolute;
  top:42px;
  right:20px;
@@ -892,7 +892,7 @@ div.error {
  height:128px
 }
 #armory-character>#equipped .slot.sweapon1 {
- background-image:url(../images/invslot-weapon-1.png);
+ background-image:url(../images/invslot-weapon-2.png);
  position:absolute;
  top:42px;
  right:242px;
@@ -1090,7 +1090,7 @@ div.error {
  margin:0 0 0 32px
 }
 #armory-character>#mercenary .slot.weapon1 {
- background-image:url(../img/invslot-weapon.png);
+ background-image:url(../images/invslot-weapon.png);
  position:absolute;
  top:84px;
  right:207px;
@@ -1098,7 +1098,7 @@ div.error {
  height:117px
 }
 #armory-character>#mercenary .slot.weapon2 {
- background-image:url(../img/invslot-weapon.png);
+ background-image:url(../images/invslot-weapon.png);
  position:absolute;
  top:84px;
  right:20px;
@@ -1106,7 +1106,7 @@ div.error {
  height:117px
 }
 #armory-character>#mercenary .slot.helmet {
- background-image:url(../img/invslot-helmet.png);
+ background-image:url(../images/invslot-helmet.png);
  position:absolute;
  top:72px;
  right:116px;
@@ -1114,7 +1114,7 @@ div.error {
  height:58px
 }
 #armory-character>#mercenary .slot.body {
- background-image:url(../img/invslot-body.png);
+ background-image:url(../images/invslot-body.png);
  position:absolute;
  top:142px;
  right:115px;
