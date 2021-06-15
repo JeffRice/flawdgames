@@ -1221,7 +1221,6 @@ div.error {
 }
 #armory-character>div>#attributes>#attributes-resources>li.resource {
  display:block;
- height:50px;
  float:right
 }
 #armory-character>div>#attributes>#attributes-resources>li.resource>.resource-mana {
