@@ -750,14 +750,14 @@ div.error {
  color:#66a;
  font-size:10pt;
  font-family:exocet;
- font-weight:700;
+ font-weight:200;
  text-shadow:0 0 1px #131313,0 2px 3px #000
 }
 #armory-character>#armory-header>#header-league {
  color:#454545;
  font-size:10pt;
  font-family:exocet;
- font-weight:700;
+ font-weight:200;
  text-shadow:0 0 1px #131313,0 2px 3px #000
 }
 #skill-calculator hr.title1,
@@ -779,6 +779,7 @@ div.error {
  text-transform:uppercase;
  line-height:17pt;
  top:26pt
+ font-weight:200;
 }
 #armory-character>#armory-header>#header-name:first-letter {
  font-size:34pt;
@@ -788,7 +789,7 @@ div.error {
 #armory-character>#armory-header>#header-title {
  font-family:exocet;
  font-size:14pt;
- font-weight:700;
+ font-weight:200;
  color:#80756a;
  text-transform:uppercase;
  text-shadow:0 0 1px #131313,0 2px 3px #000;
