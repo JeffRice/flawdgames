@@ -1229,14 +1229,14 @@ div.error {
  width:50px;
  height:50px;
  vertical-align:middle;
- background:url(../img/orb-mana.png) no-repeat center
+ background:url(../images/mana.png) no-repeat center
 }
 #armory-character>div>#attributes>#attributes-resources>li.resource>.resource-health {
  display:table-cell;
  width:50px;
  height:50px;
  vertical-align:middle;
- background:url(../img/orb-health.png) no-repeat center
+ background:url(../images/health.png) no-repeat center
 }
 #armory-character>div>#attributes>#attributes-resources>li.resource>.resource-mana>span.value,
 #armory-character>div>#attributes>#attributes-resources>li.resource>.resource-health>span.value {
