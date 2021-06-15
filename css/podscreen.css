@@ -1249,7 +1249,6 @@ div.error {
 }
 #armory-character>div>#attributes>#attributes-resources>li.resource>span.label-wrapper {
  display:table-cell;
- height:50px;
  vertical-align:middle;
  padding:0 8px;
  width:40px;
